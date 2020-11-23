@@ -1,0 +1,32 @@
+{
+    "id": "21D1BF3F",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1606084886375.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "datalong",
+        "caption": "datalong",
+        "totalObservations": 28,
+        "displayedObservations": 28,
+        "variables": 3,
+        "cacheKey": "AF57B0EF",
+        "object": "datalong",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=datalong&cache_key=AF57B0EF&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 94340795062776,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1606084886375,
+    "read_only": false,
+    "read_only_alternatives": []
+}
